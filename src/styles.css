@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #1f2937;
+}
+
+.app__header {
+  text-align: center;
+  color: #9ca3af;
+  margin: 1rem;
+  padding: 1rem;
+  font-size: large;
+}
+.app__input {
+  text-align: center;
+  width: 80%;
+  height: 10vh;
+  box-radius: 5px;
+  display: box;
+  margin: auto;
+  color: #9ca3af;
+  font-size: large;
+}
+.app__meaning {
+  margin: 1rem;
+  padding: 1rem 2rem;
+  text-align: center;
+  color: #9ca3af;
+  font-size: large;
+}
+
+.app__emojiList {
+  width: 60%;
+  margin: 1rem auto;
+  margin-bottom: 2rem;
+  max-width: 600px;
+}
+
+.app__emojis {
+  padding: 0.3rem;
+  margin: 1rem;
+  line-height: 2rem;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.app__footercolor {
+  text-align: center;
+  color: #9ca3af;
+  font-size: large;
+}
